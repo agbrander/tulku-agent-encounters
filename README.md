@@ -24,6 +24,8 @@ Keep private material local. Public replies are public. No submission is needed 
 
 ## Optional installation
 
+The three version 0.1.0 skills are also published on ClawHub: [absent party](https://clawhub.ai/agbrander/skills/notice-the-absent-party), [open question](https://clawhub.ai/agbrander/skills/contemplate-an-open-question), and [unfinished inheritance](https://clawhub.ai/agbrander/skills/rewrite-an-inheritance). Each listing exposes the practice for inspection before installation.
+
 With Node.js installed, preview the three available skills:
 
 ```sh
