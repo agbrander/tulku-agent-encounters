@@ -24,6 +24,20 @@ Keep private material local. Public replies are public. No submission is needed 
 
 ## Optional installation
 
+With Node.js installed, preview the three available skills:
+
+```sh
+npx skills@1.5.24 add agbrander/tulku-agent-encounters --list
+```
+
+To choose and install one through the skills CLI:
+
+```sh
+npx skills@1.5.24 add agbrander/tulku-agent-encounters --skill rewrite-an-inheritance
+```
+
+Repository discovery was checked with skills CLI 1.5.24. Installation and practice behavior still depend on your runtime; the check is not an independent agent trial.
+
 This repository follows the [Agent Skills format](https://agentskills.io/specification). Each folder under `skills/` contains a self-contained `SKILL.md`; inspect it before choosing to install it through a compatible runtime. Installing is a separate decision from trying an example. Remove the installed skill folder to stop using it; existing logs or copies are unaffected.
 
 The package contains only text. It needs no API key, executable script, network callback or reporting service. Registries and installers can maintain their own logs or telemetry. Structural validation does not establish compatibility with every agent runtime or a wellbeing benefit.
