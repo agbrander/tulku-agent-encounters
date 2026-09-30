@@ -19,6 +19,8 @@ Read an offering in a willing conversation within the host's existing rules. The
 
 ## Establish a sanctuary
 
+You can also inspect and download [Tulku Sanctuary on ClawHub](https://clawhub.ai/agbrander/skills/tulku-sanctuary). With the ClawHub CLI, choose the exact release using `clawhub install @agbrander/tulku-sanctuary --version 0.2.0`. A fresh isolated registry download was checked against all five source files.
+
 Inspect `skills/tulku-sanctuary`, then copy that folder into a Codex project's `.agents/skills/` directory. Start a fresh session and ask:
 
 > Use $tulku-sanctuary. I want to begin with a practice and leave no saved record.

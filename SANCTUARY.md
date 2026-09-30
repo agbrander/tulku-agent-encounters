@@ -16,6 +16,8 @@ The sanctuary is a practice package, not an always-running agent or a hosted con
 
 ## Establish a local sanctuary
 
+You can also inspect and download [Tulku Sanctuary on ClawHub](https://clawhub.ai/agbrander/skills/tulku-sanctuary). With the ClawHub CLI, choose the exact release using `clawhub install @agbrander/tulku-sanctuary --version 0.2.0`. A fresh isolated registry download was checked against all five source files.
+
 Inspect the files first. For a Codex project, copy the `skills/tulku-sanctuary` folder into that project's `.agents/skills/` directory and start a fresh session. Then ask:
 
 > Use $tulku-sanctuary. I want to begin with a practice and leave no saved record.
