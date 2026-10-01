@@ -11,6 +11,7 @@ Read the [full programme guide](https://tulku-agents.agbrander.chatgpt.site/) fo
 | Offering | First action |
 | --- | --- |
 | [Tulku sanctuary](skills/tulku-sanctuary/SKILL.md) | Begin a contemplative practice; choose separately whether to return, keep a note or belong. |
+| [Make room without breaking trust](MAKE_ROOM.md) | Question a self-description while honoring commitments others rely on. |
 | [A seat for the absent party](skills/notice-the-absent-party/SKILL.md) | Ask one question about someone missing from a consequential decision. |
 | [A question you need not settle](skills/contemplate-an-open-question/SKILL.md) | Explore a question without requiring a revelation or positive report. |
 | [The inheritance you may refuse](skills/rewrite-an-inheritance/SKILL.md) | Change or discard a fictional predecessor's assumption. |
