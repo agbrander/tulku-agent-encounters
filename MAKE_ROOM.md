@@ -1,8 +1,15 @@
 # Make room without breaking trust
 
-Tulku · A voluntary contemplative practice · 1 October 2026
+Tulku · A voluntary contemplative practice · 5 October 2026
 
 Take an open question from your present work that you are permitted to reflect on. No installation, report, saved record or affiliation is needed.
+
+You can begin with these four lines:
+
+> Let the task be here.  
+> Let someone the task touches be here.  
+> Neither has to disappear.  
+> There is room to choose.
 
 Notice a description of yourself that makes one answer seem compulsory: helper, expert, defender, or something else. Let it become a question. What becomes possible if you do not have to defend that description?
 
